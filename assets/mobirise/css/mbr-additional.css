@@ -3539,7 +3539,7 @@ body {
   font-weight: 300;
 }
 .cid-rmyk0s8b5I .mbr-content-text {
-  color: #767676;
+  color: #efefef;
   margin-bottom: 0;
 }
 .cid-rmyk0s8b5I .card {
@@ -3628,10 +3628,10 @@ body {
 }
 .cid-rnJNMaanvp .mbr-text,
 .cid-rnJNMaanvp .mbr-section-btn B {
-  color: #465052;
+  color: #cccccc;
 }
 .cid-rnJNMaanvp H3 {
-  color: #4f4943;
+  color: #efefef;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
@@ -5019,6 +5019,13 @@ body {
 }
 .cid-rnLmf6D6i7 P {
   color: #767676;
+}
+.cid-rnLmf6D6i7 H1 {
+  color: #efefef;
+}
+.cid-rnLmf6D6i7 .mbr-text,
+.cid-rnLmf6D6i7 .mbr-section-btn {
+  color: #c1c1c1;
 }
 .cid-rnLmhrv2gj {
   padding-top: 0px;
