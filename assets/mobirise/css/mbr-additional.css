@@ -5287,3 +5287,24 @@ body {
     width: 100% !important;
   }
 }
+.cid-rteUH5ywXk {
+  background: #0f7699;
+  background: linear-gradient(0deg, #cc2952, #0f7699);
+}
+.cid-rteUH5ywXk .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rteUH5ywXk figcaption {
+  position: relative;
+}
+.cid-rteUH5ywXk figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rteUH5ywXk .image-block {
+    width: 100% !important;
+  }
+}
