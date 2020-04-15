@@ -1697,6 +1697,10 @@ body {
 .cid-qTkA127IK8 H3 {
   text-align: center;
 }
+.cid-qTkA127IK8 .mbr-text,
+.cid-qTkA127IK8 .mbr-section-btn {
+  color: #080707;
+}
 .cid-rs74zcKLvx {
   background-image: url("../../../assets/images/camellia-800x600.jpg");
 }
