@@ -1711,33 +1711,6 @@ body {
 .cid-rs74zcKLvx B {
   color: #f7ed4a;
 }
-.cid-rZv1KKAkap {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #232323;
-}
-.cid-rZv1KKAkap .testimonial-text {
-  font-style: italic;
-  font-weight: 300;
-}
-.cid-rZv1KKAkap .mbr-author-name {
-  font-weight: bold;
-}
-.cid-rZv1KKAkap .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
-}
-@media (max-width: 991px) {
-  .cid-rZv1KKAkap .mbr-figure,
-  .cid-rZv1KKAkap img {
-    max-height: 300px;
-    width: auto;
-    margin: auto;
-  }
-  .cid-rZv1KKAkap .media-content {
-    padding-top: 1.5rem !important;
-  }
-}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #55b4d4;
