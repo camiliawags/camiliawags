@@ -4190,7 +4190,7 @@ body {
   background-image: url("../../../assets/images/img-6523-3-2000x840.jpg");
 }
 .cid-rmaIkhDxw6 H1 {
-  color: #f13341;
+  color: #c6200b;
 }
 .cid-rmaIkhDxw6 B {
   color: #f7ed4a;
@@ -4286,6 +4286,10 @@ body {
 }
 .cid-rs773SORHb P {
   color: #767676;
+}
+.cid-rs773SORHb .mbr-text,
+.cid-rs773SORHb .mbr-section-btn {
+  color: #b1a374;
 }
 .cid-rmyjhA2EkJ {
   background: #073b4c;
