@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "SampleWriting.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -28,13 +28,13 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
+        "#f84d5a",
         "#050505",
         "#e9520b",
         "#c6200b",
         "#f9b220",
         "#faaa1d",
-        "#634703",
-        "#f13341"
+        "#634703"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -473,7 +473,7 @@
               "background-color": "@bg-value"
             },
             "H1": {
-              "color": "#c6200b"
+              "color": "#f84d5a"
             },
             ".mbr-text, .mbr-section-btn B": {
               "color": "#256c0a"
