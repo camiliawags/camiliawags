@@ -1738,6 +1738,33 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/mbr-4-1920x1280.jpg");
 }
+.cid-sqWYtfUGKf {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #232323;
+}
+.cid-sqWYtfUGKf .testimonial-text {
+  font-style: italic;
+  font-weight: 300;
+}
+.cid-sqWYtfUGKf .mbr-author-name {
+  font-weight: bold;
+}
+.cid-sqWYtfUGKf .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+@media (max-width: 991px) {
+  .cid-sqWYtfUGKf .mbr-figure,
+  .cid-sqWYtfUGKf img {
+    max-height: 300px;
+    width: auto;
+    margin: auto;
+  }
+  .cid-sqWYtfUGKf .media-content {
+    padding-top: 1.5rem !important;
+  }
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #0f4b32;
